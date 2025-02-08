@@ -83,12 +83,6 @@ The keyboard runs CircuitPython firmware with the following features:
 - Volume control integration
 - Multiple profile support
 
-## Version Information
-
-The project uses semantic versioning:
-- Current Version: V1.1.1-beta
-- Format: MAJOR.MINOR.PATCH-stage
-- PCB Version Format: YYYY-NN-VX (e.g., 2024-01-V1)
 
 ## License
 
