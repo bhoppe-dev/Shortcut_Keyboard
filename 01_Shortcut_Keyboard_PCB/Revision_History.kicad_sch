@@ -1,0 +1,128 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c4380ca4-d09a-46bb-90f3-d05b6c01dfb2")
+	(paper "A4")
+	(title_block
+		(title "Revision History")
+		(date "2025-02-02")
+		(rev "V1")
+		(company "© 2024 Benjamin Hoppe")
+		(comment 1 "Project revision history and change tracking documentation")
+	)
+	(lib_symbols)
+	(polyline
+		(pts
+			(xy 228.6 25.4) (xy 228.6 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "721d35e4-5e69-434a-8d6f-ea4cc3f830a4")
+	)
+	(polyline
+		(pts
+			(xy 152.4 27.94) (xy 152.4 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "760ea894-3a07-4e1c-bc33-9fafa696c52d")
+	)
+	(polyline
+		(pts
+			(xy 76.2 27.94) (xy 76.2 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "b1bf2507-af62-4b57-a683-0d0ba8f08887")
+	)
+	(text_box "- initial release\n\n- tested and working\n\nTODO:\n\n- update Symbols to KiCad 8"
+		(exclude_from_sim no)
+		(at 20.32 43.18 0)
+		(size 53.34 137.16)
+		(stroke
+			(width -0.0001)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "d26425e5-a2e1-45d0-9cbe-0a35a837a412")
+	)
+	(text_box "- Updated all component symbols to comply \n\nwith KiCad 8.0 library \n\n- Enhanced schematic style for better readability \n\nand maintainability\n\n"
+		(exclude_from_sim no)
+		(at 85.09 43.18 0)
+		(size 53.34 137.16)
+		(stroke
+			(width -0.0001)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "dc0598ab-67b5-4c54-9063-bf692531f708")
+	)
+	(text "2024-07-06\n\nV1.00.00"
+		(exclude_from_sim no)
+		(at 43.942 33.782 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "1c4e8ea9-52fd-45d2-84d7-1484fe1e82e2")
+	)
+	(text "REVISION HISTORY"
+		(exclude_from_sim no)
+		(at 150.876 17.272 0)
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "656b2aed-b076-4b80-9d5c-aa10812c7a12")
+	)
+	(text "2025-02-02\n\nV1.00.01"
+		(exclude_from_sim no)
+		(at 113.538 33.274 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "e5bc9023-42b7-44da-8df1-8bf296edb691")
+	)
+)
