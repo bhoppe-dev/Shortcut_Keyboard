@@ -63,10 +63,16 @@ The software suite will include:
 
 <p align="center">
   <img src="03_Pictures/Shortcut_Keyboard_App.png" width="400">
-  <img src="03_Pictures/Shortcut_Keyboard_App_config_window.png" width="400">
   <br>
-  <em>Configuration Software Preview (Coming Soon)</em>
+  <em>Main Window - Preview (Coming Soon)</em>
 </p>
+
+<p align="center">
+  <img src="03_Pictures/Shortcut_Keyboard_App_config_window.png" width="300">
+  <br>
+  <em>Configuration Window - Preview (Coming Soon)</em>
+</p>
+
 
 ## Firmware
 
