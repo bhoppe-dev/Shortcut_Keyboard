@@ -3,7 +3,7 @@
 A programmable macro keyboard project featuring 8 customizable keys and a rotary encoder for volume control. Built with an RP2040 microcontroller and Cherry MX switches.
 
 <p align="center">
-  <img src="03_Pictures/Keyboard Top Square_Portrait_cut.jpg" width="600">
+  <img src="03_Pictures/Keyboard_TOP_Square_cut.jpg" width="600">
   <br>
   <em>Shortcut Keyboard PCB</em>
 </p>
