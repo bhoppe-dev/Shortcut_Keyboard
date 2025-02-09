@@ -3,7 +3,7 @@
 A programmable macro keyboard project featuring 8 customizable keys and a rotary encoder for volume control. Built with an RP2040 microcontroller and Cherry MX switches.
 
 <p align="center">
-  <img src="03_Pictures/Keyboard_TOP_Square_cut.jpg" width="600">
+  <img src="04_Pictures/Keyboard_TOP_Square_cut.jpg" width="600">
   <br>
   <em>Shortcut Keyboard PCB</em>
 </p>
@@ -62,13 +62,13 @@ The software suite will include:
 - Dark mode support
 
 <p align="center">
-  <img src="03_Pictures/Shortcut_Keyboard_App.png" width="400">
+  <img src="04_Pictures/Shortcut_Keyboard_App.png" width="400">
   <br>
   <em>Main Window - Preview (Coming Soon)</em>
 </p>
 
 <p align="center">
-  <img src="03_Pictures/Shortcut_Keyboard_App_config_window.png" width="300">
+  <img src="04_Pictures/Shortcut_Keyboard_App_config_window.png" width="300">
   <br>
   <em>Configuration Window - Preview (Coming Soon)</em>
 </p>
