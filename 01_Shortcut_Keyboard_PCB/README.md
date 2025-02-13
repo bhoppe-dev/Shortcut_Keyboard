@@ -2,7 +2,14 @@
 
 KiCad project files for the Shortcut-Keyboard PCB based on RP2040.
 
-## Block Diagram
+## RP2040 Interface Block Diagram
+Interface overview of the used RP2040 microcontroller pins and buses:
+
+<p align="center">
+  <img src="" width="600">
+  <br>
+  <em>RP2040 Microcontroller Interface</em>
+</p>
 
 ## Directory Structure
 
