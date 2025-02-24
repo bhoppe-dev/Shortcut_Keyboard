@@ -32,7 +32,7 @@ This PCB uses a SIG/GND/VCC/SIG stackup instead of the more conventional SIG/GND
 
 1. **Design Optimization:** The chosen stackup provides an optimal balance between routing efficiency and performance for this specific application.
 
-2. **Signal Requirements Analysis:** After analyzing the signal integrity requirements for the RP2040-based keyboard, we determined that the modest-speed signals don't demand the theoretical advantages of dual ground planes.
+2. **Signal Requirements Analysis:** After analyzing the signal integrity requirements for the RP2040-based keyboard, I determined that the modest-speed signals don't demand the theoretical advantages of dual ground planes.
 
 3. **Power Distribution:** The dedicated VCC plane on L3 provides sufficient power distribution for all components while simplifying the overall routing strategy.
 
