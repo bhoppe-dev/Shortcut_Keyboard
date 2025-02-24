@@ -26,6 +26,21 @@ Interface overview of the used RP2040 microcontroller pins and buses:
 - `Connector.kicad_sch` - Connector specific schematic
 - `Revision_History.kicad_sch` - Version tracking
 
+
+## Layer Stackup
+This PCB uses a SIG/GND/VCC/SIG stackup instead of the more conventional SIG/GND/GND/SIG configuration. This decision was based on several design considerations:
+
+1. **Design Optimization:** The chosen stackup provides an optimal balance between routing efficiency and performance for this specific application.
+
+2. **Signal Requirements Analysis:** After analyzing the signal integrity requirements for the RP2040-based keyboard, we determined that the modest-speed signals don't demand the theoretical advantages of dual ground planes.
+
+3. **Power Distribution:** The dedicated VCC plane on L3 provides sufficient power distribution for all components while simplifying the overall routing strategy.
+
+4. **Manufacturing Considerations:** The SIG/GND/VCC/SIG configuration maintains the same manufacturing complexity while offering adequate electrical performance for this application.
+
+5. **Application-Specific Design:** For this particular keyboard application, the SIG/GND/VCC/SIG arrangement meets all functional requirements while enabling a more streamlined development process.
+
+
 ## Specifications
 - Size: 100 x 79 mm
 - Layers: 4 layer, 1.6mm FR4
