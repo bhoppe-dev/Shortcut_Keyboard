@@ -52,6 +52,7 @@ The keyboard consists of three PCBs:
 ## Software
 
 > ⚠️ **Note:** The C# configuration software is currently under development and will be released soon.
+> The source code is available on GitHub at [https://github.com/bhoppe-dev/ShortcutKeyboardApp](https://github.com/bhoppe-dev/ShortcutKeyboardApp).
 
 The software suite will include:
 - Windows configuration application
