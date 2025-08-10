@@ -51,10 +51,9 @@ The keyboard consists of three PCBs:
 
 ## Software
 
-> ⚠️ **Note:** The C# configuration software is currently under development and will be released soon.
 > The source code is available on GitHub at [https://github.com/bhoppe-dev/ShortcutKeyboardApp](https://github.com/bhoppe-dev/ShortcutKeyboardApp).
-
-The software suite will include:
+> 
+The software suite includes:
 - Windows configuration application
 - Three customizable profiles
 - File/folder/application launch capabilities
@@ -65,13 +64,13 @@ The software suite will include:
 <p align="center">
   <img src="04_Pictures/Shortcut_Keyboard_App.png" width="400">
   <br>
-  <em>Main Window - Preview (Coming Soon)</em>
+  <em>Main Window</em>
 </p>
 
 <p align="center">
   <img src="04_Pictures/Shortcut_Keyboard_App_config_window.png" width="300">
   <br>
-  <em>Configuration Window - Preview (Coming Soon)</em>
+  <em>Configuration Window</em>
 </p>
 
 
